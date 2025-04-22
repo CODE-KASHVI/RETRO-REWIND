@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Retro Rewind</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h3>Retro Rewind</h3>
+    <div class="mood-box vintage-box" id="moodBox">
+      <label for="moodSelect">Pick your mood:</label>
+      <div class="mood-row">
+        <select id="moodSelect">
+          <option value="happy">Happy</option>
+          <option value="sad">Sad</option>
+          <option value="romantic">Romantic</option>
+          <option value="party">Party</option>
+          <option value="chill">Chill</option>
+        </select>
+        <button id="goBtn">Go</button>
+      </div>
+    </div>
+    <div class="fun-fact vintage-box">
+      <button id="funFactBtn"> Surprise Me</button>
+      <div id="funFactBox"></div>
+    </div>
+    <div class="retro-mode vintage-box">
+      <button id="retroBtn"> Retro Mode</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
