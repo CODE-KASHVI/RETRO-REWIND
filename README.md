@@ -1,3 +1,5 @@
+Project started in Jan 2025, with the GitHub repository created in April 2025.
+
 **Retro Rewind**
 Retro Rewind is a vintage-themed web application that revives the charm of the golden music era. With a nostalgic user interface and classic design elements, users can explore mood-based music selections, enjoy random retro fun facts, and browse a curated collage of vintage visuals.
 
